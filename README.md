@@ -23,7 +23,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [https://github.com/shawn-codes/product-preview-card-component-main/blob/master/README.md](GitHub)
+- Solution URL: [GitHub](https://github.com/shawn-codes/product-preview-card-component-main/blob/master/README.md)
 
 <!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
